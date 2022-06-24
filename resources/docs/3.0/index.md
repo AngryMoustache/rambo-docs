@@ -1,0 +1,32 @@
+- ## Get Started
+    - [Installation](/{{route}}/{{version}}/installation)
+- ## Resources
+    - [Resource object](/{{route}}/{{version}}/resources/object)
+    - [Actions](/{{route}}/{{version}}/resources/actions)
+    - [Fields](/{{route}}/{{version}}/resources/fields)
+    - [Rambo Fields](/{{route}}/{{version}}/resources/rambo-fields)
+    <!-- - [Filters](/{{route}}/{{version}}/resources/filters) -->
+    - [Buttons](/{{route}}/{{version}}/resources/buttons)
+- ## CRUD
+    - [CRUD components](/{{route}}/{{version}}/crud/components)
+    - [Index](/{{route}}/{{version}}/crud/index)
+    - [Show](/{{route}}/{{version}}/crud/show)
+    - [Create](/{{route}}/{{version}}/crud/create)
+    - [Edit](/{{route}}/{{version}}/crud/edit)
+    - [Delete](/{{route}}/{{version}}/crud/delete)
+- ## Resource Traits
+    - [Actions](/{{route}}/{{version}}/traits/actions)
+    - [Buttons](/{{route}}/{{version}}/traits/buttons)
+    - [Fields](/{{route}}/{{version}}/traits/fields)
+    - [Filters](/{{route}}/{{version}}/traits/filters)
+    - [Global Search](/{{route}}/{{version}}/traits/global-search)
+    - [Has Can See](/{{route}}/{{version}}/traits/has-can-see)
+    - [Labels](/{{route}}/{{version}}/traits/labels)
+    - [Permissions](/{{route}}/{{version}}/traits/permissions)
+    - [Queries](/{{route}}/{{version}}/traits/queries)
+    - [Rambo Magic](/{{route}}/{{version}}/traits/rambo-magic)
+    - [Rendering](/{{route}}/{{version}}/traits/rendering)
+    - [Routing](/{{route}}/{{version}}/traits/routing)
+- ## Helper objects
+    - [Rambo Helper](/{{route}}/{{version}}/helpers/rambo)
+    - [Breadcrumbs Helper](/{{route}}/{{version}}/helpers/breadcrumbs)
