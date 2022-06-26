@@ -2,7 +2,9 @@
 
 Every Resource can linked with actions, these are the actions that will be available in the CRUD.
 
-For information on how to attach actions to a Resource, see the [Resource Traits](/{{route}}/{{version}}/traits/actions) section.
+For information on how to attach actions to a Resource, see the [Digging deeper: Actions](/{{route}}/{{version}}/digging-deeper/actions) section.
+
+All actions also have the `HasCanSee` trait that you can use for permission control, see the [Has Can See](/{{route}}/{{version}}/digging-deeper/has-can-see) section for more information.
 
 ---
 

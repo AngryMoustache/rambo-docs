@@ -1,12 +1,10 @@
-# Setup
-
----
+# Installation
 
 ## Requirements
 
 You'll need Laravel 9+ and php version 8.1+ to use Rambo v3.0.
 
-## Installation
+## Setup
 
 First install the packages:
 

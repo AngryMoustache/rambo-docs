@@ -2,6 +2,8 @@
 
 Buttons are used to add actions on the edit or create CRUD pages.
 
+All buttons also have the `HasCanSee` trait that you can use for permission control, see the [Has Can See](/{{route}}/{{version}}/digging-deeper/has-can-see) section for more information.
+
 The standard buttons that come with any Rambo CRUD page are:
 
 ## Cancel Button
